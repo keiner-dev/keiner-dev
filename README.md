@@ -233,7 +233,7 @@
   </line>
 
   <!-- Tech keywords -->
-  <text x="600" y="520" font-size="16" fill="#00d4ff" text-anchor="middle" letter-spacing="3" filter="url(#glow)">REACT • TYPESCRIPT • NEXTJS</text>
+  <text x="600" y="520" font-size="16" fill="#00d4ff" text-anchor="middle" letter-spacing="3" filter="url(#glow)">REACT • NODE.JS • TYPESCRIPT</text>
 </svg>
 
 ---
