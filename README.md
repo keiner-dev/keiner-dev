@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠️ Tech Stack (Midnight Edition)
+### 🛠️ Tech Stack 
 
 | **Category** | **Technologies** |
 | :--- | :--- |
