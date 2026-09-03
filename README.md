@@ -14,8 +14,6 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001220,50:004e89,100:001220&height=100&section=footer" />
-
 ## Hi there 👋
 my name is keiner ramirez
 Passionate about technology, programming, and open-source development.
